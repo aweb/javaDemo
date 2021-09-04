@@ -1,7 +1,5 @@
 package examples;
 
-import com.apple.eawt.AppEvent;
-
 /**
  * Java Number & Math 类
  * 一般地，当需要使用数字的时候，我们通常使用内置数据类型，如：byte、int、long、double 等。
